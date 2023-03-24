@@ -1,4 +1,4 @@
 # Table of contents
 
-* [docky](README.md)
+* [docky pages](README.md)
 * [ducky](ducky.md)
